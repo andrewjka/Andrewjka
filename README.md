@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HallisCode
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Django, OOP
+- 📫 How to reach me t.me/HallisPlus
