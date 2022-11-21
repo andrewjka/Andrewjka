@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HallisCode
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django, OOP
+- 👀 I’m interested in Python, C#
+- 🌱 I’m currently learning C#, UnityEngine
 - 📫 How to reach me t.me/HallisPlus
