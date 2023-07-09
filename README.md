@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HallisCode
-- 👀 I’m interested in Python, C#
-- 🌱 I’m currently learning C#, UnityEngine
+- 👀 I’m interested in C#, TypeScript
+- 🌱 I’m currently learning C#, ASP.NET, React
 - 📫 How to reach me t.me/HallisPlus
