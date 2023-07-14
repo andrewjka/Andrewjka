@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HallisCode
 - 👀 I’m interested in C#, TypeScript
-- 🌱 I’m currently learning C#, ASP.NET, React
+- 🌱 I’m currently learning C#, ASP.NET, React, EF Core
 - 📫 How to reach me t.me/HallisPlus
