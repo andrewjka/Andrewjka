@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HallisCode
+- 👋 Hi, I’m @andrewjka
 - 👀 I’m interested in C#, C/C++, Linux
 - 🌱 I’m currently learning C#, Microservices
-- 📫 How to reach me t.me/HallisPlus
+- 📫 How to reach me t.me/andrewjka
