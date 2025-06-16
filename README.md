@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @andrewjka
-- 👀 I’m interested in C#, C/C++, Linux
-- 🌱 I’m currently learning C#, Microservices
-- 📫 How to reach me t.me/andrewjka
+- 👀 I’m interested in C#, GOlang, Linux
+- 🌱 I’m currently learning JavaScript/TS, GTK
+- - 📫 How to reach me t.me/andrewjka
