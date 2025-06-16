@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @andrewjka
 - 👀 I’m interested in C#, GOlang, Linux
 - 🌱 I’m currently learning JavaScript/TS, GTK
-- - 📫 How to reach me t.me/andrewjka
+- 📫 How to reach me t.me/andrewjka
